@@ -1,0 +1,7 @@
+numpy
+opencv-python
+paddlepaddle-gpu
+paddleocr
+pandas
+Pillow
+argparse
